@@ -1,6 +1,7 @@
 import random 
 import math 
 
+
 y=[]
 y1=[]
 n=100
